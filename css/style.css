@@ -1,0 +1,88 @@
+		*{
+			padding: 0;
+			margin: 0;
+			list-style: none;
+		}
+		body{
+			background-color: lightpink;
+		}
+		hr{
+			border: solid 1px grey;
+		}
+		#title,#title2,#title22{
+			font-size: 40px;
+			font-weight: bolder;
+			font-family: "微软雅黑";
+			margin-top: 20%;
+			margin-left: 35%;
+		}
+		#title33{
+			font-size: 80px;
+			font-weight: bolder;
+			font-family: "微软雅黑";
+			margin-top: 20%;
+			margin-left: 45%;
+		}
+		#title2,#title22,#title33{
+			display: none;
+		}
+		#title3,#title4,#title5,#title6{
+			display: none;
+			font-size: 30px;
+			font-weight: bold;
+			font-family: "微软雅黑";
+			margin-left: 35%;
+		}
+		#title7{
+			display: none;
+			font-size: 30px;
+			font-weight: bold;
+			font-family: "微软雅黑";
+			margin-left: 35%;
+		}
+		/*#needthing{
+			display: none;
+			font-size: 40px;
+			font-weight: bolder;
+			font-family: "微软雅黑";
+			margin-top: 20%;
+			margin-left: 35%;
+		}*/
+		#canvas1,#canvas2,#canvas3,#canvas4{
+			display: none;
+			width: 50%;
+			height: 40%;
+			border: solid 2px black;
+			margin-left: 25%;
+			margin-top: 10%;
+		}
+		#list1{
+			display: none;
+			width: 10%;
+			position: absolute;
+			top: 30%;
+			left: 5%;
+		}
+		#list1 ul{
+			padding-left: 5%;
+		}
+		#list1 ul li{
+			font-size: large;
+			font-weight:600;
+			padding-bottom: 10px;
+		}
+		#list2{
+			display: none;
+			width: 10%;
+			position: absolute;
+			top: 30%;
+			left: 5%;
+		}
+		#list2 ul{
+			padding-left: 5%;
+		}
+		#list2 ul li{
+			font-size: large;
+			font-weight:600;
+			padding-bottom: 10px;
+		}
